@@ -1,0 +1,10 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+  background: rgb(255, 133, 133);
+  background: linear-gradient(275deg, rgba(255, 133, 133, 1) 0%, rgba(255, 160, 160, 1) 100%);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
